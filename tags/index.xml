@@ -14,13 +14,6 @@
     <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tmukh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Immersion</title>
-      <link>https://tmukh.github.io/tags/immersion/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://tmukh.github.io/tags/immersion/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Japanese</title>
       <link>https://tmukh.github.io/tags/japanese/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
@@ -28,17 +21,10 @@
       <description></description>
     </item>
     <item>
-      <title>Learning Methods</title>
-      <link>https://tmukh.github.io/tags/learning-methods/</link>
+      <title>Tips</title>
+      <link>https://tmukh.github.io/tags/tips/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://tmukh.github.io/tags/learning-methods/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://tmukh.github.io/tags/test/</link>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://tmukh.github.io/tags/test/</guid>
+      <guid>https://tmukh.github.io/tags/tips/</guid>
       <description></description>
     </item>
   </channel>
