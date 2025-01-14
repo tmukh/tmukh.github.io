@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Million Hobbies</title>
-    <link>https://tmukh.github.io/posts/</link>
-    <description>Recent content in Posts on Million Hobbies</description>
+    <title>Weight Loss Update on Million Hobbies</title>
+    <link>https://tmukh.github.io/tags/weight-loss-update/</link>
+    <description>Recent content in Weight Loss Update on Million Hobbies</description>
     <image>
       <title>Million Hobbies</title>
       <url>https://tmukh.github.io/avatar.jpg</url>
@@ -12,14 +12,7 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 13 Jan 2025 22:55:30 +0100</lastBuildDate>
-    <atom:link href="https://tmukh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Language Goals for 2025</title>
-      <link>https://tmukh.github.io/posts/language-learning/language-learning/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://tmukh.github.io/posts/language-learning/language-learning/</guid>
-      <description>How far can I get in my Japanese process in 2025?</description>
-    </item>
+    <atom:link href="https://tmukh.github.io/tags/weight-loss-update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fitness Goals for 2025</title>
       <link>https://tmukh.github.io/posts/weight-loss/week-one/</link>

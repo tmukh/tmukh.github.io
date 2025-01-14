@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+    <!-- Background -->
+    <rect width="800" height="600" fill="white"/>
+    
+    <!-- Title -->
+    <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold">Nutrition and Weight Loss Plan (Adjusted for Desk Job)</text>
+    
+    <!-- Calorie Balance Section -->
+    <g transform="translate(40, 45)">
+        <text x="0" y="20" font-size="16" font-weight="bold">Daily Calorie Balance</text>
+        <!-- TDEE Bar -->
+        <rect x="0" y="40" width="350" height="30" fill="#e0e0e0"/>
+        <rect x="0" y="40" width="285" height="30" fill="#4CAF50"/>
+        <text x="360" y="60" font-size="14">2850 cal TDEE</text>
+        
+        <!-- Target Calories Bar -->
+        <rect x="0" y="80" width="350" height="30" fill="#e0e0e0"/>
+        <rect x="0" y="80" width="170" height="30" fill="#2196F3"/>
+        <text x="360" y="100" font-size="14">1700 cal Target</text>
+        
+        <!-- Deficit Arrow -->
+        <line x1="180" y1="120" x2="280" y2="120" stroke="red" stroke-width="2" marker-end="url(#arrow)"/>
+        <text x="230" y="140" text-anchor="middle" font-size="14" fill="red">1150 cal deficit</text>
+    </g>
+    
+    <!-- Macro Distribution (Pie Chart) -->
+    <g transform="translate(550, 250)">
+        <text x="0" y="-60" font-size="16" font-weight="bold">Macro Distribution</text>
+        <!-- Protein (47%) -->
+        <path d="M 0 0 L 86.6 -50 A 100 100 0 0 1 86.6 50 Z" fill="#FF9800"/>
+        <!-- Fat (39%) -->
+        <path d="M 0 0 L 86.6 50 A 100 100 0 0 1 -86.6 50 Z" fill="#2196F3"/>
+        <!-- Carbs (14%) -->
+        <path d="M 0 0 L -86.6 50 A 100 100 0 0 1 -86.6 -50 L 0 0" fill="#4CAF50"/>
+        
+        <!-- Legend -->
+        <g transform="translate(120, 0)">
+            <rect x="0" y="-40" width="15" height="15" fill="#FF9800"/>
+            <text x="20" y="-28" font-size="12">Protein: 200g (47%)</text>
+            
+            <rect x="0" y="-10" width="15" height="15" fill="#2196F3"/>
+            <text x="20" y="2" font-size="12">Fat: 73g (39%)</text>
+            
+            <rect x="0" y="20" width="15" height="15" fill="#4CAF50"/>
+            <text x="20" y="32" font-size="12">Carbs: 61g (14%)</text>
+        </g>
+    </g>
+    
+    <!-- Weekly Weight Loss Projection -->
+    <g transform="translate(50, 350)">
+        <text x="0" y="20" font-size="16" font-weight="bold">Weekly Weight Loss Projection (~1.05kg/week)</text>
+        <line x1="0" y1="50" x2="700" y2="50" stroke="#ccc" stroke-width="1"/>
+        <line x1="0" y1="100" x2="700" y2="100" stroke="#ccc" stroke-width="1"/>
+        <line x1="0" y1="150" x2="700" y2="150" stroke="#ccc" stroke-width="1"/>
+        
+        <!-- Weight line -->
+        <path d="M 0,50 L 100,61 L 200,72 L 300,83 L 400,94 L 500,105 L 600,116 L 700,127" 
+              fill="none" stroke="#FF5722" stroke-width="3"/>
+        
+        <!-- Data points -->
+        <g fill="#FF5722">
+            <circle cx="0" cy="50" r="4"/>
+            <circle cx="100" cy="61" r="4"/>
+            <circle cx="200" cy="72" r="4"/>
+            <circle cx="300" cy="83" r="4"/>
+            <circle cx="400" cy="94" r="4"/>
+            <circle cx="500" cy="105" r="4"/>
+            <circle cx="600" cy="116" r="4"/>
+            <circle cx="700" cy="127" r="4"/>
+        </g>
+        
+        <!-- Y-axis labels -->
+        <text x="-10" y="55" text-anchor="end" font-size="12">91kg</text>
+        <text x="-10" y="105" text-anchor="end" font-size="12">85kg</text>
+        <text x="-10" y="155" text-anchor="end" font-size="12">80kg</text>
+        
+        <!-- X-axis labels -->
+        <g text-anchor="middle" font-size="12">
+            <text x="0" y="180">Start</text>
+            <text x="100" y="180">Week 1</text>
+            <text x="200" y="180">Week 2</text>
+            <text x="300" y="180">Week 3</text>
+            <text x="400" y="180">Week 4</text>
+            <text x="500" y="180">Week 5</text>
+            <text x="600" y="180">Week 6</text>
+            <text x="700" y="180">Week 7</text>
+        </g>
+    </g>
+    
+    <!-- Definitions for arrows -->
+    <defs>
+        <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+            <path d="M0,0 L0,6 L9,3 z" fill="red"/>
+        </marker>
+    </defs>
+</svg>

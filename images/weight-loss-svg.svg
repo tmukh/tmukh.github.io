@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+    <!-- Background -->
+    <rect width="800" height="500" fill="white"/>
+    
+    <!-- Title -->
+    <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="bold">Weight Loss Progress: 91kg to 80kg</text>
+    
+    <!-- Grid lines -->
+    <g stroke="#eee" stroke-width="1">
+        <line x1="100" y1="400" x2="700" y2="400"/>
+        <line x1="100" y1="350" x2="700" y2="350"/>
+        <line x1="100" y1="300" x2="700" y2="300"/>
+        <line x1="100" y1="250" x2="700" y2="250"/>
+        <line x1="100" y1="200" x2="700" y2="200"/>
+        <line x1="100" y1="150" x2="700" y2="150"/>
+        <line x1="100" y1="100" x2="700" y2="100"/>
+    </g>
+    
+    <!-- Y-axis -->
+    <line x1="100" y1="400" x2="100" y2="100" stroke="black" stroke-width="2"/>
+    <text x="90" y="405" text-anchor="end">80</text>
+    <text x="90" y="355" text-anchor="end">82</text>
+    <text x="90" y="305" text-anchor="end">84</text>
+    <text x="90" y="255" text-anchor="end">86</text>
+    <text x="90" y="205" text-anchor="end">88</text>
+    <text x="90" y="155" text-anchor="end">90</text>
+    <text x="90" y="105" text-anchor="end">92</text>
+    
+    <!-- X-axis -->
+    <line x1="100" y1="400" x2="700" y2="400" stroke="black" stroke-width="2"/>
+    
+    <!-- X-axis labels -->
+    <g text-anchor="middle" font-size="12">
+        <text x="100" y="420">Start</text>
+        <text x="200" y="420">Week 1</text>
+        <text x="300" y="420">Week 2</text>
+        <text x="400" y="420">Week 3</text>
+        <text x="500" y="420">Week 4</text>
+        <text x="600" y="420">Week 5</text>
+        <text x="700" y="420">Week 6</text>
+    </g>
+    
+    <!-- Data line -->
+    <path d="M100,150 L200,180 L300,210 L400,240 L500,270 L600,300 L700,330" 
+          fill="none" 
+          stroke="#8884d8" 
+          stroke-width="3"/>
+    
+    <!-- Data points -->
+    <g fill="#8884d8">
+        <circle cx="100" cy="150" r="5"/>
+        <circle cx="200" cy="180" r="5"/>
+        <circle cx="300" cy="210" r="5"/>
+        <circle cx="400" cy="240" r="5"/>
+        <circle cx="500" cy="270" r="5"/>
+        <circle cx="600" cy="300" r="5"/>
+        <circle cx="700" cy="330" r="5"/>
+    </g>
+</svg>
