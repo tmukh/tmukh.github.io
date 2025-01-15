@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tmukh.github.io/astrophysicsc/</loc>
+    <lastmod>2025-01-15T12:32:20+01:00</lastmod>
+  </url><url>
     <loc>https://tmukh.github.io/</loc>
+    <lastmod>2025-01-15T12:32:20+01:00</lastmod>
+  </url><url>
+    <loc>https://tmukh.github.io/categories/</loc>
+    <lastmod>2025-01-15T08:17:52+01:00</lastmod>
+  </url><url>
+    <loc>https://tmukh.github.io/categories/japanese/</loc>
+    <lastmod>2025-01-15T08:17:52+01:00</lastmod>
+  </url><url>
+    <loc>https://tmukh.github.io/tags/japanese-progress/</loc>
+    <lastmod>2025-01-15T08:17:52+01:00</lastmod>
+  </url><url>
+    <loc>https://tmukh.github.io/posts/language-learning/wani-kani-15-1-25/</loc>
+    <lastmod>2025-01-15T08:17:52+01:00</lastmod>
+  </url><url>
+    <loc>https://tmukh.github.io/categories/language-learning/</loc>
+    <lastmod>2025-01-15T08:17:52+01:00</lastmod>
+  </url><url>
+    <loc>https://tmukh.github.io/tags/n5/</loc>
     <lastmod>2025-01-15T08:17:52+01:00</lastmod>
   </url><url>
     <loc>https://tmukh.github.io/posts/</loc>
     <lastmod>2025-01-15T08:17:52+01:00</lastmod>
   </url><url>
-    <loc>https://tmukh.github.io/categories/</loc>
-    <lastmod>2025-01-13T22:55:30+01:00</lastmod>
+    <loc>https://tmukh.github.io/tags/</loc>
+    <lastmod>2025-01-15T08:17:52+01:00</lastmod>
+  </url><url>
+    <loc>https://tmukh.github.io/tags/wanikani/</loc>
+    <lastmod>2025-01-15T08:17:52+01:00</lastmod>
   </url><url>
     <loc>https://tmukh.github.io/categories/fitness/</loc>
     <lastmod>2025-01-13T22:55:30+01:00</lastmod>
   </url><url>
     <loc>https://tmukh.github.io/posts/weight-loss/week-one/</loc>
-    <lastmod>2025-01-13T22:55:30+01:00</lastmod>
-  </url><url>
-    <loc>https://tmukh.github.io/tags/</loc>
     <lastmod>2025-01-13T22:55:30+01:00</lastmod>
   </url><url>
     <loc>https://tmukh.github.io/categories/weight-loss/</loc>
@@ -27,9 +48,6 @@
     <lastmod>2025-01-13T22:55:30+01:00</lastmod>
   </url><url>
     <loc>https://tmukh.github.io/tags/japanese/</loc>
-    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tmukh.github.io/categories/language-learning/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tmukh.github.io/posts/language-learning/language-learning/</loc>
