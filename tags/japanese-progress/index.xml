@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Japanese Progress on Million Hobbies</title>
+    <link>http://localhost:1313/tags/japanese-progress/</link>
+    <description>Recent content in Japanese Progress on Million Hobbies</description>
+    <image>
+      <title>Million Hobbies</title>
+      <url>http://localhost:1313/avatar.jpg</url>
+      <link>http://localhost:1313/avatar.jpg</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jan 2025 08:17:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/japanese-progress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japanese Progress January 15th</title>
+      <link>http://localhost:1313/posts/language-learning/wani-kani-15-1-25/</link>
+      <pubDate>Wed, 15 Jan 2025 08:17:52 +0100</pubDate>
+      <guid>http://localhost:1313/posts/language-learning/wani-kani-15-1-25/</guid>
+      <description>&lt;p&gt;Time to Check in on my Japanese Progress!&lt;/p&gt;
+&lt;p&gt;To preface this series of posts for the next.. I don&amp;rsquo;t know.. 4-5 months? I&amp;rsquo;ll be doing an update once a week, reviewing my &lt;a href=&#34;https://apps.ankiweb.net/&#34;&gt;Anki&lt;/a&gt; card progress, that is, how many cards I know and how much my vocabulary has grown, alongside my &lt;a href=&#34;https://www.wanikani.com/&#34;&gt;WaniKani&lt;/a&gt; Progress, which is my Kanji learning method.&lt;/p&gt;
+&lt;p&gt;Well then..  行こう!&lt;/p&gt;
+&lt;p&gt;For starters, I am currently on level &lt;strong&gt;4&lt;/strong&gt; on WaniKani, which will cover about 30% of the vocab found on sites such as &lt;a href=&#34;https://www3.nhk.or.jp/news/easy/&#34;&gt;NHK Easy&lt;/a&gt; which have simplified Japanese news articles, aimed at aiding those still learning Japanese.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
