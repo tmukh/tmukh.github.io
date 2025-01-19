@@ -9,10 +9,22 @@
       <url>https://tmukh.github.io/avatar.jpg</url>
       <link>https://tmukh.github.io/avatar.jpg</link>
     </image>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jan 2025 08:17:52 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 01:19:39 +0100</lastBuildDate>
     <atom:link href="https://tmukh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schwarzschild Radius</title>
+      <link>https://tmukh.github.io/posts/astrophysics/schwarzschild-radius/</link>
+      <pubDate>Sun, 19 Jan 2025 01:19:39 +0100</pubDate>
+      <guid>https://tmukh.github.io/posts/astrophysics/schwarzschild-radius/</guid>
+      <description>&lt;h2 id=&#34;the-schwarzschild-radius-the-black-hole-warning-sign&#34;&gt;The Schwarzschild Radius, the black hole warning sign&lt;/h2&gt;
+&lt;p&gt;The Schwarzschild radius—named after &lt;a href=&#34;https://en.wikipedia.org/wiki/Karl_Schwarzschild&#34;&gt;Karl Schwarzschild&lt;/a&gt;—is a cornerstone in Einstein&amp;rsquo;s general theory of relativity. It defines the point where our perception of physics and reality no longer follow their usual laws, the point of no return, where nothing—not even light—can escape.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s dive into one of my favorite topics when it comes to black holes!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;what-is-the-schwarzschild-radius&#34;&gt;&lt;strong&gt;What Is the Schwarzschild Radius?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Schwarzschild radius is the radius from the center of mass where the &lt;a href=&#34;https://www.britannica.com/science/escape-velocity&#34;&gt;escape velocity&lt;/a&gt; of an object equals the speed of light (~1,079,252,848.8 km/h!). This means nothing can escape it. Any object crossing this radius is lost to the black hole, as no information or matter can escape its grip.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Japanese Progress January 15th</title>
       <link>https://tmukh.github.io/posts/language-learning/wani-kani-15-1-25/</link>
