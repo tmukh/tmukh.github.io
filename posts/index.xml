@@ -9,10 +9,32 @@
       <url>https://tmukh.github.io/avatar.jpg</url>
       <link>https://tmukh.github.io/avatar.jpg</link>
     </image>
-    <generator>Hugo -- 0.141.0</generator>
+    <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jan 2025 01:19:39 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 13:22:00 +0100</lastBuildDate>
     <atom:link href="https://tmukh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japanese Progress January 19th</title>
+      <link>https://tmukh.github.io/posts/language-learning/wani-kani-24-1/</link>
+      <pubDate>Fri, 24 Jan 2025 13:22:00 +0100</pubDate>
+      <guid>https://tmukh.github.io/posts/language-learning/wani-kani-24-1/</guid>
+      <description>&lt;p&gt;Time to check in on my Japanese progress!&lt;/p&gt;
+&lt;p&gt;Unfortunately since I am now hitting the WaniKani &amp;ldquo;Hill of difficulty&amp;rdquo; at &lt;strong&gt;Level 5&lt;/strong&gt;, which means that level ups will only ever take longer to complete now. This is where most people start quitting.&lt;/p&gt;
+&lt;p&gt;As an illustration, here&amp;rsquo;s a graph that depicts the workload that WaniKani has based on levels:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Workload&#34; loading=&#34;lazy&#34; src=&#34;https://tmukh.github.io/images/language-learning/workload-graph.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As you can see, this workload will keep increasing until level 20, and then plateau. But that doesn&amp;rsquo;t mean stagnation! It&amp;rsquo;s simply an indicator that the workload will stay enormously high for a while.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Rubiks Cube: A Physical Manifestation of Non-Abelian Groups</title>
+      <link>https://tmukh.github.io/posts/cubing/noncommutivity/</link>
+      <pubDate>Fri, 24 Jan 2025 01:19:39 +0100</pubDate>
+      <guid>https://tmukh.github.io/posts/cubing/noncommutivity/</guid>
+      <description>&lt;h1 id=&#34;the-beauty-of-non-commutativity&#34;&gt;The Beauty of Non-Commutativity&lt;/h1&gt;
+&lt;p&gt;To many, the Rubik&amp;rsquo;s cube may seem like a puzzle, requiring black magic to solve. However, learning that it  represents one of the most fascinating non-abelian groups in recreational mathematics, widens our understanding about how this fantastic puzzle works. Unlike simple rotations or basic arithmetic where order doesn&amp;rsquo;t matter (2+3 = 3+2), the Rubik&amp;rsquo;s cube exhibits a fundamental property: the order of operations matters.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;the-group-structure&#34;&gt;The Group Structure&lt;/h1&gt;
+&lt;p&gt;The Rubik&amp;rsquo;s cube perfectly embodies the four axioms of group theory while demonstrating non-abelian properties:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Schwarzschild Radius</title>
       <link>https://tmukh.github.io/posts/astrophysics/schwarzschild-radius/</link>
